@@ -1,5 +1,8 @@
 # Blueberry Winery
 
+<img src="https://www.portugaltrails.com/wp-content/uploads/2016/02/Douro-Vineyard-1680x600.jpg" alt="Vinyard in Portugal">
+
+
 <h2>The Task</h2>
 A purported winery startup from Portugal "approached" our learning group wishing to get fundamental business insights from wine data. The startup planned to start their business in the region of Vinho Verde but was still open to other suggestions. The questions were widly spread. From detection of wine quality derived from the given data over chemical differences in wine quality both in red and white wines, global wine comparisons to consultation in price setting and provision with overall wine market information - all of this was requested by the "client", including the consideration of most important KPIs.
 
@@ -19,4 +22,4 @@ To solve the comprehensive tasks we used
   <li>data visualization</li>.
 </ul>
 
-Some of the explorations and analytics by machine learning as well as insights from global market research are displayed in the two presentations attached.
+Some of the explorations and analytics by machine learning as well as insights from global market research are displayed in the two presentations (<a href = "https://github.com/DJ1070/Winery/blob/7e8d7a195b31de850fe6ba87756c1917e196f35c/Presentation-01-2020_12_11.pdf">1 here</a> and <a href = "https://github.com/DJ1070/Winery/blob/7e8d7a195b31de850fe6ba87756c1917e196f35c/Presentation-02a-2021_01_22.pdf">2 here</a>) attached.
