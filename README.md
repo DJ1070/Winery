@@ -6,7 +6,7 @@ A purported winery startup from Portugal "approached" our learning group wishing
 
 <h2>The Data</h2>
 At first we got one dataset for white and another for red wine from the Portugese Vinho Verde region. Both were very unbalanced with a data ratio of aproximately 2.5:1 for white to red wine.<br>
-Later we got a third, a big dataset with sales and wine quality data for wines from all over the world. It was way to big to process it on a local computer. Nevertheless, a partional price exploration helped to understand a few phenomenons for certain countries. 
+Later we got a third, a big dataset with sales and wine quality data for wines from all over the world. It was way to big to process it on a local computer. Nevertheless, a partional price exploration helped to understand a few phenomenons for certain countries.<br> 
 <b>Spoiler Alert:</b> Relations between percieved wine quality and sales price could only be found for French wines.
 
 
